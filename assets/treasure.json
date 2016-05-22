@@ -1,0 +1,28 @@
+{"frames": {
+
+"Treasure01":
+{
+	"frame": {"x":2,"y":2,"w":32,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":26},
+	"sourceSize": {"w":32,"h":26}
+},
+"Treasure02":
+{
+	"frame": {"x":36,"y":2,"w":32,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":26},
+	"sourceSize": {"w":32,"h":26}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "treasure.png",
+	"format": "RGBA8888",
+	"size": {"w":70,"h":30},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dd82a306dca3cd391177d3b77b64eb1f:48b30652a8c0d651d54f19db19dfac4a:f5102e10802bf57b1ffb114ab12e46ca$"
+}
+}
